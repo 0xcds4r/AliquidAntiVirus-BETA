@@ -1,7 +1,7 @@
-[![GitHub release](https://img.shields.io/github/release/0xcds4r/VisualNovelCore.svg)](https://GitHub.com/0xcds4r/VisualNovelCore/releases/)
-[![GitHub license](https://img.shields.io/github/license/0xcds4r/VisualNovelCore.svg)](https://github.com/0xcds4r/VisualNovelCore/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/0xcds4r/VisualNovelCore.svg)](https://GitHub.com/0xcds4r/VisualNovelCore/issues/)
-[![GitHub stars](https://img.shields.io/github/stars/0xcds4r/VisualNovelCore.svg)](https://GitHub.com/0xcds4r/VisualNovelCore/stargazers/)
+[![GitHub release](https://img.shields.io/github/release/0xcds4r/AliquidAntiVirus-BETA.svg)](https://GitHub.com/0xcds4r/AliquidAntiVirus-BETA/releases/)
+[![GitHub license](https://img.shields.io/github/license/0xcds4r/AliquidAntiVirus-BETA.svg)](https://github.com/0xcds4r/AliquidAntiVirus-BETA/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/0xcds4r/AliquidAntiVirus-BETA.svg)](https://GitHub.com/0xcds4r/AliquidAntiVirus-BETA/issues/)
+[![GitHub stars](https://img.shields.io/github/stars/0xcds4r/AliquidAntiVirus-BETA.svg)](https://GitHub.com/0xcds4r/AliquidAntiVirus-BETA/stargazers/)
 
 # Aliquid AntiVirus BETA
 
