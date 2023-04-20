@@ -6,4 +6,5 @@
 ## How to use?
 - pip install -r requirements.txt
 - python main.py
+
 **Before running, make sure you place the virus signature database (virushashes.txt) in the script folder**
